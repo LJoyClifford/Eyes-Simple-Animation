@@ -1,2 +1,2 @@
 # Eyes-Simple-Animation
-Eyeballs follow cursur movements. 
+This is simple animation with eyes following cursor movements. 
